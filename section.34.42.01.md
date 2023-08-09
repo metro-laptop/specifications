@@ -42,6 +42,7 @@ RailComm DOC system utilizes their DOC User Interface application. CMTA is respo
 local TCS workstations. Data communication between the TCS and wayside system utilizes a fiber
 optic ring network communication system connecting each control point using Hirschmann RS-20
 switches, GENISYS® protocols to exchange control and indication (CI) data.
+
 F. CMTA road crossing warning systems utilize constant warning controllers of different manufactures
 each utilizing a specific range of frequencies compatible with the E-ATC 40Hz Cab. Due to the 40
 Hz carrier for E-ATC, tuned shunts are used for all crossing approach terminations, in addition
@@ -52,11 +53,13 @@ potential harmonic interference.
 
 ### GENERAL TECHNICAL REQUIREMENTS
 The Contractor shall comply with the following:
+
 A. Design, furnish, install, test, and commission All PTC (E-ATC) and CTC system requirements and
 associated Road Crossing warning system revisions and other works required to fully integrate the
 “track upgrades” between West Kramer and West Serta. into CMTA’s existing CTC/EATC system
 and as described herein. and will not be considered complete until final acceptance from CMTA
 and compliant with the US Federal Railroad Administration (FRA).
+
 1. The Contractor shall be responsible for the complete functional (verification) and operational
 (validation) testing for all Work performed on this Project including all systems described in this
 specification.
@@ -88,6 +91,7 @@ Mandatory Directives (MDs) and Temporary Speed Restrictions (TSR); time delay ca
 are not indicated but must be considered. These drawings are intended as reference only to permit
 the Contractor to prepare their submission. Final as installed drawings for the affected portion of
 the existing system will be provided to the successful bidder upon award of the contract.
+
 D. CMTA’s Vice President of Rail Operations or his duly authorized representative will be the final
 authority for deciding whether a competitive item conforms to these requirements and complies
 with the intention of this Specification.
@@ -99,7 +103,8 @@ will be judged by CMTA as to their effect and ability to perform the intended wo
 G. It shall be the responsibility of the Contractor to make certain that all systems, parts, and
 components fit and function together properly.
 
-GENERAL TECHNICAL REQUIREMENTS
+### GENERAL TECHNICAL REQUIREMENTS
+
 H. Where brand, manufacturer or product names are shown in this Specification, they are included
 only to establish identification and general descriptions of the item. Wherever such names appear,
 the term "or approved equal" is considered to follow.
