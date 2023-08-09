@@ -159,7 +159,7 @@ Plans shall be signed and sealed by a Professional Engineer registered in the st
 
 U. Perform and document all inspections in accordance with CMTA’s General Instructions and PTC
 Signal Systems Testing in accordance with Signal Specification Section 34 42 13.23, Signal
-Systems Testing.
+Systems Testing..
 
 V. Perform factory and field (on-site) acceptance testing and commissioning of the signal system as
 a normal part of the Work. The Contractor shall invite CMTA or their designated representative(s)
