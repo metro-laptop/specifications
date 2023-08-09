@@ -15,10 +15,9 @@ is a passenger excursion train.
 B. Rail Traffic on CMTA’s Redline is controlled using Centralized Traffic Control (CTC) with a Positive
 Train Control (PTC) overlay system, specifically Enhanced Automatic Train Control (E-ATC) as
 defined in 49 CFR 236,1015 (e) (2). CMTA’s passenger trains and AWRR equipment are
-“interoperable” and equipped with E-ATC. AWCX equipment is exempt per 49 CFR 236.1006(b)(4).
-Tenant and host operations are temporally separated and do not operate on the same segment of
-track at the same time. The complete system description can be found in The Contract Documents
-section, CMTA PTC System Design Description (SDD), Revision A06.
+interoperable and equipped with E-ATC. AWCX equipment is exempt per 49 CFR 236.1006(b)(4).
+The complete system description can be found in The Contract Documents
+section, CMTA PTC System Design Description (SDD), Revision A08.
 
 C. CMTA’s (E-ATC) sub-system utilizes ElectrologIXS solid-state interlocking controllers and Audio
 Frequency track circuits with (21) Cab speed codes / 40 Hz carrier manufactured by Alstom. E-
