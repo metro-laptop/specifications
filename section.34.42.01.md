@@ -6,12 +6,12 @@
 
 ### 1.01 SYSTEM DESCRIPTION
 
-A. The Capital Metro Transportation Authority (CMTA) commuter rail system consists of a 32-mile
-corridor from downtown Austin to Leander. In addition to CMTA passenger operations (host
+A. The Capital Metro Transportation Authority (Capital Metro) commuter rail system consists of a 32-mile
+corridor from downtown Austin to Leander. In addition  CMTA passenger operations (host
 railroad) two tenant railways also operate on the corridor Austin Western Railroad (AWRR)
 providing freight transportation services and the Austin and Texas Central Railroad (AWCX) which
 is a passenger excursion train.
-
+C
 B. Rail Traffic on CMTA’s Redline is controlled using Centralized Traffic Control (CTC) with a Positive
 Train Control (PTC) overlay system, specifically Enhanced Automatic Train Control (E-ATC) as
 defined in 49 CFR 236,1015 (e) (2). CMTA’s passenger trains and AWRR equipment are
