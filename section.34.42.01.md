@@ -25,7 +25,7 @@ ATC is essentially a vital overlay on CMTA’s the wayside CTC system which cons
 points and intermediate signal locations interconnected with Electrocode DC Coded track circuits
 (EC5).
 
-D. All freight engines and passenger vehicles (DMU’s) which operate on CMTA are equipped with
+D. All freight locomotives and passenger vehicles (DMU’s) which operate on CMTA are equipped with
 Alstom on-board Ultra Cab II (UCII) controllers, cab display units, receiver coils (at both ends of the
 DMU or engine), propulsion and braking interfaces installed and programmed to respond to speed
 codes received by the wayside E-ATC system to prevent train-to-train collisions, overspeed
