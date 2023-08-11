@@ -56,7 +56,7 @@ The Contractor shall comply with the following:
 
 A. Design, furnish, install, test, and commission All PTC (E-ATC) and CTC system requirements and
 associated Road Crossing warning system revisions and other works required to fully integrate the
-“track upgrades” between West Kramer and West Serta. into CMTA’s existing CTC/EATC system
+track upgrades between West Kramer and West Serta. into CMTA’s existing CTC/EATC system
 and as described herein. and will not be considered complete until final acceptance from CMTA
 and compliant with the US Federal Railroad Administration (FRA).
 
